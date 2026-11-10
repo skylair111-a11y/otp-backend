@@ -5,8 +5,8 @@ import os
 
 --- CONFIGURATION ---
 Replace these with your actual BotFather token and userinfobot chat ID.
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
-CHAT_ID = "YOUR_CHAT_ID"
+BOT_TOKEN = "9022818782:AAHGeinKHFVFHLwZA0XNzZHlS-INsrOPT-4"
+CHAT_ID = "8698352336"
 
 bot = telebot.TeleBot(BOT_TOKEN)
 app = Flask(name)
